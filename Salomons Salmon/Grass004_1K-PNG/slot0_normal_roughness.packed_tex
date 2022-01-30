@@ -1,0 +1,8 @@
+{
+	"contains_albedo": false,
+	"resolution": 512,
+	"src": {
+		"a": "res://Grass004_1K-PNG/Grass004_1K_Roughness.png",
+		"rgb": "res://Grass004_1K-PNG/Grass004_PREVIEW.jpg"
+	}
+}

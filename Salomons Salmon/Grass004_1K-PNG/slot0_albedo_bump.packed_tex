@@ -1,0 +1,8 @@
+{
+	"contains_albedo": true,
+	"resolution": 512,
+	"src": {
+		"a": "res://Grass004_1K-PNG/Grass004_1K_Displacement.png",
+		"rgb": "res://Grass004_1K-PNG/Grass004_1K_Color.png"
+	}
+}
